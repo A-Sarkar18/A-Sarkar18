@@ -30,7 +30,7 @@ My primary research interests revolve around environmental policy evaluation. Cu
 
 📧 [ayansarkar18@berkeley.edu]
 
-![Linkedin](https://i.sstatic.net/gVE0j.png) (www.linkedin.com/in/ayansarkar18)
+![Linkedin](https://i.sstatic.net/gVE0j.png) (linkedin.com/in/ayansarkar18)
 &nbsp;
 <!---
 A-Sarkar18/A-Sarkar18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
