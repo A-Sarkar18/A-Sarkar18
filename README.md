@@ -6,7 +6,7 @@ Welcome to my GitHub repository! I am Ayan Sarkar, an aspiring predoctoral candi
 
 ### About Me
 
-- 🎓 Currently pursuing a B.S in Environmental Economics & Policy at UC Berkeley.
+- 🎓 B.S in Environmental Economics & Policy at UC Berkeley.
 
 ### Research Interests
 
