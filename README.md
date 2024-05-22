@@ -24,7 +24,7 @@ My primary research interests revolve around environmental policy evaluation. Cu
 
 ### Skills
 
-- R, Python, SQL, ArcGis Pro, Stata, SAS, Matlab
+- R, Python, SQL, ArcGis Pro, Stata, SAS, Matlab, Google Earth Engine
 
 ### Contact
 
