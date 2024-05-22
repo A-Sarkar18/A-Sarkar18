@@ -18,9 +18,17 @@ My primary research interests revolve around environmental policy evaluation. Cu
 - Simple demonstration of basic data cleaning procedule along with simple visualizations
 - Uses dplyr and tidyr packages in R to clean and aggregate US Census data.
 
-#### Model Selection
-- Used Mallow's Cp statistic to generate optimal regression model through nuanced model selection procedures to improve model performance.
+#### Environmental Kuznet's Curve with Model Selection
+- Uses Mallow's Cp statistic to generate optimal regression model through nuanced model selection procedures to improve model performance.
 - Uses scikit-learn
+
+#### Exploratory Data Analysis ERCOT Energy Demand Time Series Decomposition
+- Plots Texas' energy consumption over the past decade as time series
+
+#### Texas Air Pollution Monitors & Average Annual AQI
+- User-interactive widget to visualize AQI over the last decade in Texas
+- Uses geopanda package
+
 
 
 ### Skills
