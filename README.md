@@ -1,6 +1,6 @@
 # Ayan Sarkar
 
-## Predoctoral Research Candidate in Economics/Public Policy
+## Aspiring Environmental Policy Researcher
 
 Welcome to my GitHub repository! I am Ayan Sarkar, an aspiring predoctoral candidate in Economics with a passion for Environmental Economics and Impact Evaluation. This repository serves as a hub for my academic and research-related activities.
 
