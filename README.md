@@ -12,7 +12,7 @@ Welcome to my GitHub repository! I am Ayan Sarkar, an aspiring predoctoral candi
 
 My primary research interests revolve around environmental policy evaluation. Currently, I am interested in risk management and the role of developing economically sound policy that is tuned in to the catastropic realities of the impacts of climate change. 
 
-### Passion Projects
+### Passion Mini Projects
 
 #### Cleaning Census Data
 - Simple demonstration of basic data cleaning procedule along with simple visualizations
