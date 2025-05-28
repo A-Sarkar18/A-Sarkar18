@@ -2,15 +2,16 @@
 
 ## Aspiring Environmental Policy Researcher
 
-Welcome to my GitHub repository! I am Ayan Sarkar, an aspiring predoctoral candidate in Economics with a passion for Environmental Economics and Impact Evaluation. This repository serves as a hub for my academic and research-related activities.
+Welcome to my GitHub repository! I am Ayan Sarkar, a current MPP candidate at the Harris School for Public Policy at the University of Chicago with a passion for Environmental Economics and Impact Evaluation. This repository serves as a hub for my academic and research-related activities.
 
 ### About Me
 
-- 🎓 B.S in Environmental Economics & Policy at UC Berkeley.
+- 🎓 BS Environmental Economics & Policy @ UC Berkeley
+- 🎓 MPP @ UChicago Harris
 
 ### Research Interests
 
-My primary research interests revolve around environmental policy evaluation. Currently, I am interested in risk management and the role of developing economically sound policy that is tuned in to the catastropic realities of the impacts of climate change. 
+My primary research interests revolve around global development, renewable energy infrastructure, and environmental policy evaluation. Currently, I am interested in risk management and the role of developing economically sound policy that is tuned in to the catastropic realities of the impacts of climate change. 
 
 ### Passion Mini Projects
 
