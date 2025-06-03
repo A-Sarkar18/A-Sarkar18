@@ -1,6 +1,6 @@
 # Ayan Sarkar
 
-## Aspiring Environmental Policy Researcher
+## Environmental Policy Researcher
 
 Welcome to my GitHub repository! I am Ayan Sarkar, a current MPP candidate at the Harris School for Public Policy at the University of Chicago with a passion for Environmental Economics and Impact Evaluation. This repository serves as a hub for my academic and research-related activities.
 
